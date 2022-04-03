@@ -1,9 +1,1 @@
-# Goal Pioneers website
-
-## Database
-
-## Backend
-
-## SCSS
-
-## Frontend
+# Template Repository : Code for Laravel
